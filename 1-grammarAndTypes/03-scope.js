@@ -72,3 +72,5 @@ function scope() {
 
 scope();
 console.log(x); //12
+
+//
