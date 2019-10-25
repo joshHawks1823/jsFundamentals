@@ -16,3 +16,4 @@ let catArray = [
 for (cat of catArray) {
   console.log(cat, "says meow");
 }
+//
